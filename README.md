@@ -30,6 +30,7 @@ This repo contain all the essential stuff  to clear all thee big or small tech c
 ## System Design :) 
 ###                   [LLD & HLD](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=847r8FMZInbgP3If) 
 ---
+# Sunday  - Something different : [AI/ML](https://github.com/Arjun-coder5/ai-ml-research-training)
 # Rounds in Every Company : 
 ## Round 1: Online Assesment : A timed Online Test (Fix Time)  Contains 2-3 Coding Questions - Way : Do contest and Do DSA Part in this above list . 
 ## Round 2: Technical Interview I (Data Structures & Algorithms) - They focus Heavily on how you approach ques communicate it and Go from brute force to Effecient tc and sc . engage with interviewer . way : Practise every ques from beginning to end . like postmartm . thats the way :)
