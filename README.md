@@ -14,7 +14,7 @@ This repo contain all the essential stuff  to clear all thee big or small tech c
 ###                 [C2 Ladder](https://c2-ladders-juol.onrender.com/)     :  Use it to cover cf ques rating wise from 800 to 3500 and contests
 ###                 [AtCoders](https://atcoder.jp/contests/)      : Use it dedicately  for contests. 
 
-### See all the comtest timing ok bro :) [Here](https://codolio.com/event-tracker) 
+### See all the contest timing ok bro :) [Here](https://codolio.com/event-tracker) 
 ---
 ## [Java-Full-Stack](https://github.com/Arjun-coder5/Java-Full-Stack-Roadmap-/blob/main/README.md) :)
 ###                It contains  :  1. Basic java + oops     
