@@ -1,4 +1,4 @@
-<img width="1852" height="730" alt="image" src="https://github.com/user-attachments/assets/49b52cc5-3f94-4119-80e5-fa980c36cfe8" /># Interview-Focus-things-
+#   Hello Everyone ::  I am Arjun Sorout : ) 
 This repo contain all the essential stuff  to clear all thee big or small tech companiess . dont worry it contains everyting you require to crack .  but at last it matters on you  how you do it  consistently or not . 
 ---
 ## Core Subjects :)
