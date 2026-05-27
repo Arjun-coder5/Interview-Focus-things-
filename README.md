@@ -9,12 +9,14 @@ This repo contain all the essential stuff  to clear all thee big or small tech c
 ###                   [Quant](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) 
 ---
 ## DSA :) 
-###                 Neetcode 250  :  Use it to cover all the patterns and algorithem 
-###                  Leetcode     : Use it to Do practise ques and contest 
-###                 C2 Ladder     :  Use it to cover cf ques rating wise from 800 to 3500 and contests
-###                 AtCoders      : Use it dedicately  for contests. 
+###                 [Neetcode 250](https://neetcode.io/practice/practice/neetcode250)  :  Use it to cover all the patterns and algorithem 
+###                 [Leetcode](https://leetcode.com/u/Arjun_coder_01/)     : Use it to Do practise ques and contest 
+###                 [C2 Ladder](https://c2-ladders-juol.onrender.com/)     :  Use it to cover cf ques rating wise from 800 to 3500 and contests
+###                 [AtCoders](https://atcoder.jp/contests/)      : Use it dedicately  for contests. 
+
+### See all the comtest timing ok bro :) [Here](https://codolio.com/event-tracker) 
 ---
-## Java-Full-Stack :)
+## [Java-Full-Stack](https://github.com/Arjun-coder5/Java-Full-Stack-Roadmap-/blob/main/README.md) :)
 ###                It contains  :  1. Basic java + oops     
 ###                                2. Core Java + mysql and jdbc 
 ###                                3. Spring and spring boot & React 
